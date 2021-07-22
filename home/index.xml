@@ -1,152 +1,977 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Homes on Academic</title>
-    <link>https://rsk2327.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://rsk2327.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://rsk2327.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://rsk2327.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rsk2327.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m a second year graduate student of the Data Science program at the University of Pennsylvania. A research-oriented autodidact, most of my knowledge has been derived from online courses and Kaggle discussion boards. I&amp;rsquo;m particularly interested in the application of Machine Learning and Deep Learning techniques in the health, finance and customer analytics domains.
-Besides academics, my interests include Photography, Badminton, Basketball, and playing the Guitar and Tabala.</description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://rsk2327.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://rsk2327.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roles</title>
-      <link>https://rsk2327.github.io/home/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://rsk2327.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>https://rsk2327.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://rsk2327.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://rsk2327.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://rsk2327.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rsk2327.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/teaching/</guid>
-      <description> Courses 
-           Introduction to Big Data with Spark Fast.AI Scalable Machine Learning Time Series Analysis   Big Data Analytics (Advanced Track) Artificial Intelligence Statistical Learning Machine Learning   Biostatistics Data Structures and Algorithms (Python) Analytics Edge Practical Predictive Analytics    </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://rsk2327.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://rsk2327.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://rsk2327.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.53" />
+  <meta name="author" content="Marlyne Hakizimana">
+
+
+
+
+
+
+
+  <meta name="description" content="">
+
+
+  <link rel="alternate" hreflang="en-us" href="https://marlhakizi.github.io/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="theme-color" content="#2962ff">
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+
+
+
+
+
+
+
+
+
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+
+
+  <link rel="stylesheet" href="/styles.css">
+
+
+
+
+
+
+
+  <link rel="alternate" href="https://marlhakizi.github.io/index.xml" type="application/rss+xml" title="Marlyne's Portfolio">
+  <link rel="feed" href="https://marlhakizi.github.io/index.xml" type="application/rss+xml" title="Marlyne's Portfolio">
+
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/smile.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/smile.png">
+
+  <link rel="canonical" href="https://marlhakizi.github.io/">
+
+
+
+
+
+
+
+
+  <meta property="twitter:card" content="summary">
+
+  <meta property="og:site_name" content="Marlyne's Portfolio">
+  <meta property="og:url" content="https://marlhakizi.github.io/">
+  <meta property="og:title" content="Marlyne's Portfolio">
+  <meta property="og:description" content="M.S in Data Science"><meta property="og:image" content="https://marlhakizi.github.io/img/portrait.jpg">
+  <meta property="og:locale" content="en-us">
+
+  <meta property="og:updated_time" content="2017-10-15T00:00:00-04:00">
+
+
+
+
+
+
+  <title>Marlyne's Portfolio</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+
+      <a class="navbar-brand" href="/"><img src="/img/smile.png" alt="Marlyne's Portfolio"></a>
+
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+
+
+
+    <div class="collapse navbar-collapse" id="navbar">
+
+
+
+      <ul class="navbar-nav ml-auto">
+
+
+
+
+
+
+
+
+
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about" data-target="#about">
+
+            <span>Home</span>
+
+          </a>
+        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#experience" data-target="#experience">
+
+            <span>Experience</span>
+
+          </a>
+        </li>
+
+
+
+
+
+
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects" data-target="#projects">
+
+            <span>Projects</span>
+
+          </a>
+        </li>
+
+
+
+
+
+
+
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+
+
+
+
+
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<span id="homepage" style="display: none"></span>
+
+
+
+
+
+
+
+
+
+
+
+  <section id="about" class="home-section">
+    <div class="container">
+
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+
+      <img class="portrait" src="/img/portrait.jpg" itemprop="image" alt="Avatar">
+
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Marlyne</h2>
+        <h3 itemprop="jobTitle"></h3>
+
+
+
+
+
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+
+          <span itemprop="name"></span>
+
+        </h3>
+
+      </div>
+
+      <link itemprop="url" href="https://marlhakizi.github.io/">
+
+      <ul class="network-icon" aria-hidden="true">
+
+
+
+
+
+
+
+
+
+
+        <li>
+          <a itemprop="sameAs" href="mailto:marlyne.hakizimana@duke.edu" >
+            <i class="fas fa-envelope fa-lg"></i>
+          </a>
+        </li>
+
+
+
+
+
+
+
+
+
+
+
+        <li>
+          <a itemprop="sameAs" href="https://www.linkedin.com/in/marlyne-hakizimana-376755b1/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin fa-lg"></i>
+          </a>
+        </li>
+
+
+
+
+
+
+
+
+        <li>
+          <a itemprop="sameAs" href="https://github.com/marlhakizi" target="_blank" rel="noopener">
+            <i class="fab fa-github fa-lg"></i>
+          </a>
+        </li>
+
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8" itemprop="description">
+
+
+
+<h1 id="biography">Biography</h1>
+
+<p>I am a first year graduate student  in the Interdisciplinary Data Science program at Duke University. My experience range from regulatory, anaylst to leadership. I am interested in how businesses can utilize their data resources better with an optimized workflow. My interest lies in building predictive models, deriving business insights from data and software development.</p>
+<p> A few fun facts: </p>
+
+
+    <div class="row">
+
+
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+
+          <li>Statistical Modeling</li>
+
+          <li>Natural Language Processing</li>
+
+          <li>Data engineering</li>
+
+
+        </ul>
+      </div>
+
+
+
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">M.S in Interdisciplinary Data Science, 2023</p>
+              <p class="institution">Duke University, North Carolina</p>
+            </div>
+          </li>
+
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">B.A in Physics and Mathematics, 2018</p>
+              <p class="institution">St. Olaf College, Minnesota</p>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+
+
+      <div class="col-md-5">
+        <h3> Certificates</h3>
+        <ul class="ul-interests">
+
+          <li>Machine Learning</li>
+
+          <li>Deep Learning Specialization</li>
+
+        </ul>
+      </div>
+
+
+
+      <div class="col-md-7">
+        <h3> Technical Skills</h3>
+        <ul class="ul-edu fa-ul">
+
+          <li>
+            <i class="fa-li fab fa-python"></i>
+            <div class="description">
+              <p class="course">Python, R, SQL</p>
+              <p class="institution">   </p>
+            </div>
+          </li>
+
+          <li>
+            <i class="fa-li fab fa-python"></i>
+            <div class="description">
+              <p class="course">Git, matplotlib, Scikit-learn</p>
+              <p class="institution">   </p>
+            </div>
+          </li>
+
+    </div>
+  </div>
+</div>
+
+
+
+    </div>
+  </section>
+
+
+
+
+
+  <section id="experience" class="home-section">
+    <div class="container">
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Experience</h1>
+
+  </div>
+  <div class="col-12 col-lg-8">
+
+
+
+
+
+    <div class="row experience">
+
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <div class="float-right text-muted exp-meta">
+              <div class="text-right">
+                Feb. 2019 –
+
+                  June. 2021
+
+              </div>
+
+              <div class="text-right">Minneapolis, MN</div>
+
+            </div>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Regulatory Data Specialist Team Lead, Servicing 3M</h4>
+            <h4 class="card-title exp-company text-muted my-0">Pace Analytical</h4>
+            <div class="card-text"><br></p>
+
+<ul>
+<li>Reviewed global chemical regulations, determined their application for various products and effectively communicated with 3M suppliers.</li>
+<li>Responsible for delegating workload to team of regulatory data specialists, including the mass workload for SAP implementation</li>
+<li>Automated a better workflow process using Python for efficiency and better time management.</li>
+
+<br /></li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row experience">
+
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border exp-fill">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <div class="float-right text-muted exp-meta">
+              <div class="text-right">
+                Feb. 2019 –
+
+                  Dec. 2019
+
+              </div>
+
+              <div class="text-right">Minneapolis, MN</div>
+
+            </div>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Data Science Mentee</h4>
+            <h4 class="card-title exp-company text-muted my-0">SharpestMinds</h4>
+            <div class="card-text"><br></p>
+
+<ul>
+<li>Predicted employee absenteeism in hours for a courier company using Random Forest and Logistic Regression as classification models in Python</li>
+<li>Created a web app using Heroku and Flask to predict the click-through rate on an advertisement</li>
+
+<br /></li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row experience">
+
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <div class="float-right text-muted exp-meta">
+              <div class="text-right">
+                January. 2018
+
+
+
+              </div>
+
+              <div class="text-right">Minneapolis, Minnesota</div>
+
+            </div>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Data Science Consultant Intern</h4>
+            <h4 class="card-title exp-company text-muted my-0">WindLogics</h4>
+            <div class="card-text"><br></p>
+
+<ul>
+<li>Worked with a team of five on an optimization problem where the goal was to develop a better load forecasting algorithm.</li>
+<li>Applied different load forecasting algorithms such as Random Forest and ARIMA in R-studio to predict seasonality in Battery Control</li>
+<li>Developed a 20% improved ensemble model by combining five algorithms for optimized results and better accuracy.</li>
+<br /></li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+
+
+  <section id="projects" class="home-section">
+    <div class="container">
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Projects</h1>
+
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <span class="d-none default-project-filter">*</span>
+
+
+
+      <div class="project-toolbar">
+        <div class="project-filters">
+          <div class="btn-toolbar">
+            <div class="btn-group flex-wrap">
+
+
+
+
+
+
+                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+
+
+
+
+                <a href="#" data-filter=".js-id-modelling" class="btn btn-primary btn-lg">Modelling</a>
+
+
+
+
+                <a href="#" data-filter=".js-id-nlp" class="btn btn-primary btn-lg">Natural Language Processing</a>
+
+
+
+
+                <a href="#" data-filter=".js-id-data-engineering" class="btn btn-primary btn-lg">Data Engineering</a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+    <div class="row isotope projects-container js-layout-masonry ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-modelling">
+  <div class="card">
+
+
+    <a href="https://github.com/marlhakizi/Absenteeism-time-in-hours" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/Employee Absenteeism/outofoffice.png" alt="" class="img-responsive">
+    </a>
+
+    <div class="card-text">
+      <h4><a href="https://github.com/marlhakizi/Absenteeism-time-in-hours" target="_blank" rel="noopener">Predicting Absenteeism time</a></h4>
+      <div class="card-desription">
+        <p>Identifying primary causes of absenteeism in order to reduce worker absenteeism using Random Forest and Logistic Regression</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-modelling">
+  <div class="card">
+
+
+    <a href="https://github.com/marlhakizi/Ad-Prediction-App" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/Ad-click Predictions/adclicking.png" alt="" class="img-responsive">
+    </a>
+
+    <div class="card-text">
+      <h4><a href="https://github.com/marlhakizi/Ad-Prediction-App" target="_blank" rel="noopener">Predicting Customer Clicks</a></h4>
+      <div class="card-desription">
+        <p>Exploration of an end to end predictive model and deploying it on web app. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ul>
+
+
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+
+<div class="container">
+  <footer class="site-footer">
+
+
+  <p class="powered-by">
+
+
+
+
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+
+
+
+
+
+
+
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="/js/academic.min.70f0041f5a24c6a675ac218c98d7ef71.js"></script>
+
+
+
+  </body>
+</html>
